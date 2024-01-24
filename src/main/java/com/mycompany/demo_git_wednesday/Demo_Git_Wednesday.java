@@ -3,7 +3,8 @@
  */
 
 package com.mycompany.demo_git_wednesday;
-@Simranpreet Kaur
+// @Simranpreet Kaur
+// Netbeans
 /**
  *
  * @author Arwinder
